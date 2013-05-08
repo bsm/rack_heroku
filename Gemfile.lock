@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rack_heroku (0.1.0)
+    rack_heroku (0.2.0)
       rack
 
 GEM

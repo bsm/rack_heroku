@@ -3,7 +3,7 @@ require 'rack'
 module Rack::Heroku
 end
 
-%w|profiler info|.each do |name|
+%w|profiler|.each do |name|
   require "rack/heroku/#{name}"
 end
 

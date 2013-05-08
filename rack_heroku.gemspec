@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
 
   s.name        = "rack_heroku"
   s.summary     = "Rack middleware for Heroku"
-  s.version     = "0.1.0"
+  s.version     = "0.2.0"
   s.license     = "MIT"
 
   s.authors     = ["Dimitrij Denissenko"]
