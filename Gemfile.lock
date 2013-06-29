@@ -1,17 +1,17 @@
 PATH
   remote: .
   specs:
-    rack_heroku (0.2.0)
+    rack_heroku (0.2.1)
       rack
 
 GEM
   remote: https://rubygems.org/
   specs:
-    diff-lcs (1.2.3)
+    diff-lcs (1.2.4)
     rack (1.5.2)
     rack-test (0.6.2)
       rack (>= 1.0)
-    rake (10.0.4)
+    rake (10.1.0)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
